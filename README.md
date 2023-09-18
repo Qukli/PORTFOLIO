@@ -1,2 +1,2 @@
-## Годовой отчет о родаже пиццы  интерактивный дашборд https://app.powerbi.com/links/Sq150SStAq?ctid=ccb9d3ec-85ad-4687-a404-210008e7092c&pbi_source=linkShare&bookmarkGuid=fe8cc2ad-40fe-4d09-ac0b-fcb464cc46ef 
+## Годовой отчет о родаже пиццы  интерактивный дашборд web version - https://app.powerbi.com/view?r=eyJrIjoiNDMzMjFmODktMjI5OS00MTBiLWI4MDEtMjU3YmQwZTExZWNiIiwidCI6ImNjYjlkM2VjLTg1YWQtNDY4Ny1hNDA0LTIxMDAwOGU3MDkyYyIsImMiOjl9
 Файл проекта закреплен выше 
