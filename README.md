@@ -1,6 +1,6 @@
 ## Интерактивный дашборд для анализа продажи пиццы (web version)
 
-[Посмотреть отчет в Power BI](https://app.powerbi.com/view?r=eyJrIjoiZGNjNTcwZGMtZjAxNy00OGM4LWI5ZmMtZTc0YTZjOTRiM2YyIiwidCI6ImNjYjlkM2VjLTg1YWQtNDY4Ny1hNDA0LTIxMDAwOGU3MDkyYyIsImMiOjl9)
+[Посмотреть отчет Power BI](https://app.powerbi.com/view?r=eyJrIjoiZGNjNTcwZGMtZjAxNy00OGM4LWI5ZmMtZTc0YTZjOTRiM2YyIiwidCI6ImNjYjlkM2VjLTg1YWQtNDY4Ny1hNDA0LTIxMDAwOGU3MDkyYyIsImMiOjl9)
 
 ## Исследование больших объемов данных с использованием Python
 
